@@ -1,0 +1,12 @@
+api: adsf
+api-version: 1.12.2
+name: JunglePlugin
+version: 1,0
+main: me.olafgoud.Main
+commands:
+  buywood:
+    usage: /buywood
+  buygunpowder:
+    usage: /buygunpowder
+  inventorysystem:
+    usage: /inventorysystem
